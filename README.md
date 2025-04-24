@@ -129,6 +129,4 @@ VS Code with Java Extension Pack
 - **JDK Not Configured**: Set the Java home path in VS Code:
   - Go to `File → Preferences → Settings` → Search for "Java Home" → Add your JDK path (e.g., `C:\Program Files\Java\jdk-17`).
 
----
-
-This setup ensures your Remote Health Monitoring System runs smoothly in VS Code while meeting all assignment requirements! 
+--- 
